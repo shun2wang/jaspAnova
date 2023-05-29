@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: jaspAnova 0.17.0\n"
-"POT-Creation-Date: 2022-12-12 14:40\n"
+"POT-Creation-Date: 2023-05-29 08:29\n"
 "PO-Revision-Date: 2023-05-12 13:53+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jasp/jaspanova-r/"
@@ -13,6 +13,9 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 4.18-dev\n"
+
+msgid "%.2f"
+msgstr ""
 
 msgid ""
 "The WLS weights contain negative and/or zero values.<br><br>(only positive "
@@ -550,7 +553,8 @@ msgid "Duplicate variables encountered in %s"
 msgstr "W %s napotkano powtórzone zmienne"
 
 msgid "Duplicate participant column added to model terms, %s"
-msgstr "Do składników modelu została dodana zduplikowana kolumna uczestnika, %s"
+msgstr ""
+"Do składników modelu została dodana zduplikowana kolumna uczestnika, %s"
 
 msgid ""
 "The interaction effect of %1$s has no observations for the combination(s): "
@@ -886,7 +890,8 @@ msgid "Error in %1$s - Syntax error in the model! Error message: %2$s"
 msgstr "Błąd w %1$s - błąd składni w modelu! Komunikat o błędzie: %2$s"
 
 msgid "Error in %1$s - Could not estimate the model! Error message: %2$s"
-msgstr "Błąd w %1$s - nie udało się oszacować modelu! Komunikat o błędzie: %2$s"
+msgstr ""
+"Błąd w %1$s - nie udało się oszacować modelu! Komunikat o błędzie: %2$s"
 
 msgid "Bootstrapping restricted models"
 msgstr "Bootstrap dla modeli ograniczonych"

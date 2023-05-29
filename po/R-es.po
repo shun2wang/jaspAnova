@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: JASP 0.9.2\n"
-"POT-Creation-Date: 2022-12-12 14:40\n"
+"POT-Creation-Date: 2023-05-29 08:29\n"
 "PO-Revision-Date: 2022-10-20 14:13+0000\n"
 "Last-Translator: ecadrian <ecadrian@hotmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jasp/jaspanova-r/"
@@ -12,6 +12,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.14.2-dev\n"
+
+msgid "%.2f"
+msgstr ""
 
 msgid ""
 "The WLS weights contain negative and/or zero values.<br><br>(only positive "

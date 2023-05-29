@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: jaspAnova 0.15\n"
-"POT-Creation-Date: 2022-12-12 14:40\n"
+"POT-Creation-Date: 2023-05-29 08:29\n"
 "PO-Revision-Date: 2022-02-04 03:58+0000\n"
 "Last-Translator: Harris Abd Hamid <harris75@gmail.com>\n"
 "Language-Team: Malay <https://hosted.weblate.org/projects/jasp/jaspanova-r/"
@@ -12,6 +12,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.11-dev\n"
+
+msgid "%.2f"
+msgstr ""
 
 msgid ""
 "The WLS weights contain negative and/or zero values.<br><br>(only positive "
