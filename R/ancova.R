@@ -15,6 +15,9 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 
+if (x > 10) warning('x is ', gettextf('%.2f', x), domain=NA)
+if (x == 42) stop(errorCondition('needs Deep Thought', class='myError'))
+
 # This is a temporary fix
 # TODO: remove it when R will solve this problem!
 gettextf <- function(fmt, ..., domain = NULL)  {
